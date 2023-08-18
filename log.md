@@ -12,11 +12,11 @@
 ### Tag 1: 18. August 2023
 ##### (lösche mich oder kommentiere mich aus)
 
-**Heutiger Fortschritt**: CSS Korrektur, Arbeit an der Canvas Funktionalität der App.
+**Heutiger Fortschritt**: early release eines updates zu meinem docker command game. leider hatte ein kleine extra funktion noch nicht ganz geklappt weswegen ich diese aus dem code wieder auskommentiert habe für spätere überprüfungen und updates. aber so einiges an umfang dazubekommen und auch einige neue funktionen die getestet wurden und soweit funktionieren wie gewünscht.
 
-**Gedanken:** Ich habe mich wirklich schwer getan mit CSS/ wirklich mit CSS gekämpft, aber alles in allem habe ich das Gefühl, ich werde langsam besser darin. Canvas ist noch immer Neuland für mich, aber ich habe es geschafft einen Teil der grundlegenden Funktionalität zu verstehen.
+**Gedanken:** diese verflixte anzeige muss ich unbedingt fixen auch wenn sie nur ein kleines sahnehäubchen obendrauf wäre.
 
-**Link zur Arbeit:** [Taschenrechner App](http://www.example.com)
+**Link zur Arbeit:** [Docker Command Game](https://github.com/Satisfraction/Docker-Command-Game)
 
 
 ### Tag 1: 19. August 2023 (Beispiel 2)
