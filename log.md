@@ -19,12 +19,11 @@
 **Link zur Arbeit:** [Docker Command Game](https://github.com/Satisfraction/Docker-Command-Game)
 
 
-### Tag 1: 19. August 2023 (Beispiel 2)
+### Tag 2: 19. August 2023 
 
-**Heutiger Fortschritt**: Ich bin einige Übungen auf freeCodeCamp durchgegangen.
+**Heutiger Fortschritt**: Ich habe etwas an einem update für das docker command game gearbeitet .
 
-**Gedanken** Ich habe vor Kurzem mit dem Coden begonnen, und es ist ein tolles Gefühl, wenn ich nach vielfachen Ansätzen und mehreren investierten Stunden endlich einen Algorithmus gelöst bekomme.
+**Gedanken** behalte ich für mich ...
 
 **Link(s) zur Arbeit**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+[Docker Command Game](https://github.com/Satisfraction/Docker-Command-Game)
