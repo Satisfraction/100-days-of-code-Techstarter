@@ -27,3 +27,7 @@
 
 **Link(s) zur Arbeit**
 [Docker Command Game](https://github.com/Satisfraction/Docker-Command-Game)
+
+### Tag 3: 20. August 2023
+
+**Heutiger Fortschritt**: Beginn der Arbeit am 100 days of code program, eine sprachlern app mit python. vorerst nur deutsch - englisch.
