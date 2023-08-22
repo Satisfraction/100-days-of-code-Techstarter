@@ -36,7 +36,7 @@
 
 ### Tag 4: 21. August 2023
 
-**Heutiger Fortschritt**: Update Arbeit an der sprachlern app mit python.
+**Heutiger Fortschritt**: Update Arbeit an der sprachlern app mit python. Einige neue Vokabeln hinzugefügt und einige kleine Änderungen.
 
 **Link zur Arbeit:** [Sprachlern App](https://github.com/Satisfraction/SprachlernApp)
 
