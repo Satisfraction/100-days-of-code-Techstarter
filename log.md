@@ -39,3 +39,9 @@
 **Heutiger Fortschritt**: Update Arbeit an der sprachlern app mit python.
 
 **Link zur Arbeit:** [Sprachlern App](https://github.com/Satisfraction/SprachlernApp)
+
+### Tag 5: 22. August 2023
+
+**Heutiger Fortschritt**: Update Arbeit an der sprachlern app mit python. 1 neue Funktion hinzugefügt die es dem Nutzer erlaubt nach einer bestimmten anzahl an Vokabeln im Lern modus zu wählen ob er / sie weiter machen oder aufhören möchte.
+
+**Link zur Arbeit:** [Sprachlern App](https://github.com/Satisfraction/SprachlernApp)
