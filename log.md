@@ -63,3 +63,9 @@
 **Heutiger Fortschritt**: Update Arbeit an der sprachlern app mit python. Weitere vorbereitungen auf ein größeres Update getätigt.
 
 **Link zur Arbeit:** [Sprachlern App](https://github.com/Satisfraction/SprachlernApp)
+
+### Tag 9: 26. August 2023
+
+**Heutiger Fortschritt**: Update mit grundlegendem, simplem GUI fertig gestellt um eine bessere User bedienung zu gewährleisten. Weitere Vokabeln hinzugefügt. README überarbeitet.
+
+**Link zur Arbeit:** [Sprachlern App](https://github.com/Satisfraction/SprachlernApp)
