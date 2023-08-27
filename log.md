@@ -1,6 +1,6 @@
 # 100 Days Of Code - Logbuch
 
-### Tag 0: 17. August 2023 (Beispiel 1)
+### Tag 0: 17. August 2023 
 ##### (lösche oder kommentiere mich aus)
 
 **Heutiger Fortschritt**: Python programieren der Welt näher gebracht.
@@ -69,3 +69,9 @@
 **Heutiger Fortschritt**: Update mit grundlegendem, simplem GUI fertig gestellt um eine bessere User bedienung zu gewährleisten. Weitere Vokabeln hinzugefügt. README überarbeitet.
 
 **Link zur Arbeit:** [Sprachlern App](https://github.com/Satisfraction/SprachlernApp)
+
+### Tag 10: 27. August 2023
+
+**Heutiger Fortschritt**: Überlegungen für zukünftige neue updates.
+
+**Link zur Arbeit:** 
