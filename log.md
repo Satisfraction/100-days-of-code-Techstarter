@@ -75,3 +75,15 @@
 **Heutiger Fortschritt**: Überlegungen für zukünftige neue updates.
 
 **Link zur Arbeit:** 
+
+### Tag 11: 28. August 2023
+
+**Heutiger Fortschritt**: 
+
+**Link zur Arbeit:** 
+
+### Tag 12: 28. August 2023
+
+**Heutiger Fortschritt**: Neue Vokabel hinzugefügt und einige Optimierungen am code durchgeführt.
+
+**Link zur Arbeit:** [Sprachlern App](https://github.com/Satisfraction/SprachlernApp)
