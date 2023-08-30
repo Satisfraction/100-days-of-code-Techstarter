@@ -82,7 +82,13 @@
 
 **Link zur Arbeit:** 
 
-### Tag 12: 28. August 2023
+### Tag 12: 29. August 2023
+
+**Heutiger Fortschritt**: Neue Vokabel hinzugefügt und einige Optimierungen am code durchgeführt.
+
+**Link zur Arbeit:** [Sprachlern App](https://github.com/Satisfraction/SprachlernApp)
+
+### Tag 13: 30. August 2023
 
 **Heutiger Fortschritt**: Neue Vokabel hinzugefügt und einige Optimierungen am code durchgeführt.
 
