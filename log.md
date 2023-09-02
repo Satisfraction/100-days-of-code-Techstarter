@@ -97,3 +97,9 @@
 **Heutiger Fortschritt**: Neue Vokabel hinzugefügt und einige Optimierungen am code durchgeführt für bessere nutzung.
 
 **Link zur Arbeit:** [Sprachlern App](https://github.com/Satisfraction/SprachlernApp)
+
+### Tag 15: 1. September 2023
+
+**Heutiger Fortschritt**: Lokale Überarbeitung der Datenstruktur für späteres Update und zukünftige Weiterentwicklung der Funktionalität.
+
+**Link zur Arbeit:** [Sprachlern App](https://github.com/Satisfraction/SprachlernApp)
