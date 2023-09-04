@@ -113,3 +113,9 @@
 **Fortschritt heute**: Fortgesetzte lokale Umstrukturierung der Daten für kommende Updates und zukünftige Funktionsentwicklungen. 🗃️🔧
 
 **Link zur Arbeit:** [Sprachlern App](https://github.com/Satisfraction/SprachlernApp)
+
+### Tag 17: 3. September 2023
+
+**Fortschritt heute**: Fortgesetzte lokale Umstrukturierung der Daten und erste Anpassungen an der App Struktur für das neue Format. 🗃️🔧
+
+**Link zur Arbeit:** [Sprachlern App](https://github.com/Satisfraction/SprachlernApp)
