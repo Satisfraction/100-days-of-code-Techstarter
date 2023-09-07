@@ -185,7 +185,7 @@
 - In dieser Version gibt es einige aufregende Funktionen und Verbesserungen, die die Benutzererfahrung weiter optimieren.
 
 **Wie kannst du teilnehmen?**:
-- Wenn du neugierig bist und die Alpha-Version ausprobieren möchtest, kontaktiere mich gerne über GitHub, um Zugang zur Testversion zu erhalten.
+- Klone das repository und gebe gerne Feedback zu deiner Erfahrung mit der Lernapp über GitHub.
 - Dein Feedback ist unschätzbar und wird dazu beitragen, die App noch besser zu machen!
 
 **Link zur Arbeit:** [Sprachlern App](https://github.com/Satisfraction/SprachlernApp)
