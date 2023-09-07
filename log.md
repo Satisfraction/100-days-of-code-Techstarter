@@ -173,3 +173,19 @@
 **Was habe ich heute erreicht**: Weitere Anpassungen an der App Struktur für das neue Format. 🗃️🔧
 
 **Link zur Arbeit:** [Sprachlern App](https://github.com/Satisfraction/SprachlernApp)
+
+---
+
+### Tag 21: 7. September 2023
+
+**Was habe ich heute erreicht**: Endlich ist es soweit – das neue Update der Sprachlern-App ist in einer Alpha-Version verfügbar! 🚀
+
+**Neuerungen**:
+- Die Alpha-Version des Updates ist fertiggestellt und bereit zum Testen.
+- In dieser Version gibt es einige aufregende Funktionen und Verbesserungen, die die Benutzererfahrung weiter optimieren.
+
+**Wie kannst du teilnehmen?**:
+- Wenn du neugierig bist und die Alpha-Version ausprobieren möchtest, kontaktiere mich gerne über GitHub, um Zugang zur Testversion zu erhalten.
+- Dein Feedback ist unschätzbar und wird dazu beitragen, die App noch besser zu machen!
+
+**Link zur Arbeit:** [Sprachlern App](https://github.com/Satisfraction/SprachlernApp)
