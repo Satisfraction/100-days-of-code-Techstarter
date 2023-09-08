@@ -192,7 +192,7 @@
 
 ---
 
-### Tag 21: 7. September 2023
+### Tag 22: 8. September 2023
 
 **Was habe ich heute erreicht**: Heute habe ich weiterhin hart an einem neuen Update zur Verbesserung der Benutzererfahrung der Sprachlern-App gearbeitet. Das Hauptziel dieses Updates ist es, die Bedienung der App noch zugänglicher und benutzerfreundlicher zu gestalten. 🛠️
 
