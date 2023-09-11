@@ -245,3 +245,24 @@
 **Link zur Arbeit:** [Sprachlern App](https://github.com/Satisfraction/SprachlernApp)
 
 ---
+
+### Tag 21: 7. September 2023
+
+**Was habe ich heute erreicht**: Heute gab es ein kleines, aber wichtiges Datenbank-Update für die Sprachlern-App. In der Datenbank "vocabulary.db" wurden die folgenden Neuerungen hinzugefügt:
+
+- 3 neue Kategorien wurden eingeführt, um das Vokabular vielfältiger zu gestalten.
+- 27 neue Wörter wurden hinzugefügt, um das Lernangebot zu erweitern.
+- 26 neue Sätze wurden integriert, um das praktische Üben zu unterstützen.
+
+**Die Verbesserungen im Überblick**:
+- Die App wird mit diesen frischen Inhalten noch leistungsfähiger, um das Sprachenlernen noch spannender zu gestalten.
+
+**Das bevorstehende Update**:
+- Die Arbeit am großen App-Update geht weiterhin voran, und die Veröffentlichung rückt näher.
+
+**Bleibt dran!**:
+- Bald wird die aktualisierte Version zum Testen verfügbar sein. Eure Unterstützung und euer Feedback sind unschätzbar.
+
+**Link zur Arbeit:** [Sprachlern App](https://github.com/Satisfraction/SprachlernApp)
+
+---
