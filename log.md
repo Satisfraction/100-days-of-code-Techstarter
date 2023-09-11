@@ -225,7 +225,7 @@
 
 ---
 
-### Tag 21: 7. September 2023
+### Tag 24: 10. September 2023
 
 **Was habe ich heute erreicht**: Große Fortschritte wurden erzielt! Ich habe heute die Datenbank der Sprachlern-App aktualisiert, um einige Probleme zu beheben, die während des Tests aufgetreten sind. Darüber hinaus habe ich weiterhin intensiv an der Verbesserung der Benutzeroberfläche und der Navigation gearbeitet, um sicherzustellen, dass die App so benutzerfreundlich wie möglich ist. 🔄💻
 
@@ -246,7 +246,7 @@
 
 ---
 
-### Tag 21: 7. September 2023
+### Tag 25: 11. September 2023
 
 **Was habe ich heute erreicht**: Heute gab es ein kleines, aber wichtiges Datenbank-Update für die Sprachlern-App. In der Datenbank "vocabulary.db" wurden die folgenden Neuerungen hinzugefügt:
 
