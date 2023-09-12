@@ -267,3 +267,28 @@
 
 
 ---
+
+### Tag 26: 12. September 2023
+
+**Was habe ich heute erreicht**: Ein produktiver Tag! Ich habe heute einige kleinere Bugs aufgespürt und behoben, was uns einen großen Schritt näher an die Veröffentlichung des neuen Updates mit aufregenden Neuerungen bringt. 🐛🛠️
+
+**Die Bugfixes im Detail**:
+- Dank intensiver Tests konnten einige lästige Bugs beseitigt werden, um sicherzustellen, dass die App einwandfrei funktioniert.
+
+**Die Datenbank-Erweiterung**:
+- In der Datenbank wurden weitere Inhalte hinzugefügt:
+  - 📚 1 weitere Kategorie wurde eingeführt, um die Vielfalt des Vokabulars zu steigern.
+  - ➕ 27 neue Wörter wurden hinzugefügt, um das Lernangebot zu erweitern.
+  - ✍️ 27 neue Sätze wurden integriert, um das praktische Üben zu unterstützen.
+
+**Das erwartete Update**:
+- Das Update mit all diesen Verbesserungen und Erweiterungen steht kurz bevor. Freut euch darauf!
+
+**Bleibt dran!**:
+- Ich freue mich darauf, euch das neue Update in Kürze präsentieren zu können. Eure Unterstützung und euer Feedback sind unschätzbar.
+
+**Link zur Arbeit:** [Sprachlern App](https://github.com/Satisfraction/SprachlernApp)
+
+---
+
+
