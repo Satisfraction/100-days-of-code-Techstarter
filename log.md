@@ -291,4 +291,18 @@
 
 ---
 
+### Tag 26: 12. September 2023
+
+**Was habe ich heute erreicht**: Ein weiterer erfolgreicher Tag! Heute habe ich einen (hoffentlich) letzten hartnäckigen Bug ausfindig gemacht und behoben, was bedeutet, dass das neue Update mit seinen großartigen Neuerungen jetzt so gut wie bereit für die Veröffentlichung ist. 🐞🛠️
+
+**Der letzte Bugfix**:
+- Mit gründlicher Fehlerbehebung konnte der (hoffentlich) letzte verbliebene Bug ausgemerzt werden, um sicherzustellen, dass die App reibungslos funktioniert.
+
+**Das baldige Release**:
+- Das Update, das viele spannende Verbesserungen und Neuerungen bringt, steht kurz bevor. Die Vorfreude steigt!
+
+**Bleibt dran!**:
+- Bald werde ich das neue Update präsentieren können. Vielen Dank für eure Geduld und Unterstützung!
+
+**Link zur Arbeit:** [Sprachlern App](https://github.com/Satisfraction/SprachlernApp)
 
