@@ -291,7 +291,7 @@
 
 ---
 
-### Tag 26: 12. September 2023
+### Tag 27: 13. September 2023
 
 **Was habe ich heute erreicht**: Ein weiterer erfolgreicher Tag! Heute habe ich einen (hoffentlich) letzten hartnäckigen Bug ausfindig gemacht und behoben, was bedeutet, dass das neue Update mit seinen großartigen Neuerungen jetzt so gut wie bereit für die Veröffentlichung ist. 🐞🛠️
 
