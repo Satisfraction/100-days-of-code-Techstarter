@@ -306,3 +306,27 @@
 
 **Link zur Arbeit:** [Sprachlern App](https://github.com/Satisfraction/SprachlernApp)
 
+---
+
+### Tag 28: 14. September 2023
+
+**Was habe ich heute erreicht**: Heute ist ein großer Tag! Das neue Update für die Sprachlern-App ist endlich bereit und wurde veröffentlicht. Es bringt zahlreiche aufregende Neuerungen und Verbesserungen mit sich. 🚀📦
+
+**Die Highlights des Updates**:
+- 🆕 Neue Kategorie hinzugefügt, um das Vokabular zu erweitern.
+- 🌟 Über 30 neue Wörter und Sätze integriert, um das Lernen abwechslungsreicher zu gestalten.
+- 🖥️ Eine benutzerfreundlichere Benutzeroberfläche und verbesserte Navigation für ein angenehmeres Erlebnis.
+- 🐞 Diverse Bugs wurden behoben, um die App reibungslos laufen zu lassen.
+- 📈 Die Leistung und Geschwindigkeit der App wurde optimiert.
+
+**Das Update ist da!**:
+- Du kannst jetzt das neueste Update der Sprachlern-App herunterladen und die spannenden neuen Funktionen erkunden.
+
+**Dein Feedback ist gefragt!**:
+- Ich freue mich auf dein Feedback und deine Vorschläge zur weiteren Verbesserung der App.
+
+**Link zur Arbeit:** [Sprachlern App](https://github.com/Satisfraction/SprachlernApp)
+
+**Viel Spaß beim Lernen mit der aktualisierten Sprachlern-App!** 📚🗣️🌍
+
+---
