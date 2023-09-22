@@ -468,3 +468,23 @@
 
 ---
 
+### Tag 36: 22. September 2023
+
+**Was habe ich heute erreicht**: Bedauerlicherweise konnte ich heute erneut keine Fortschritte in der Entwicklung der Sprachlern-App erzielen. Dies lag an den anspruchsvollen Aufgabenstellungen zu Jenkins in meinem Weiterbildungskurs, die sich als äußerst herausfordernd erwiesen haben. 📚🔧
+
+**Herausforderungen im Weiterbildungskurs**:
+- Die Aufgabenstellungen zu Jenkins in meinem Weiterbildungskurs waren erneut sehr komplex und zeitintensiv.
+- Obwohl ich gerne an der App gearbeitet hätte, wurde meine Zeit und Energie von diesen Aufgaben in Anspruch genommen.
+
+**Die Bedeutung von Ausdauer**:
+- Solche Herausforderungen sind Teil des Lernprozesses. Die Ausdauer, sie zu bewältigen, ist entscheidend für langfristigen Erfolg.
+
+**Bald geht es weiter!**:
+- Trotz der aktuellen Herausforderungen freue ich mich auf die Fortsetzung der Arbeit an der Sprachlern-App, sobald es die Umstände erlauben.
+
+**Link zur Arbeit**: [Sprachlern App](https://github.com/Satisfraction/SprachlernApp)
+
+**Auf kommende Fortschritte!** 🌟💪🌐
+
+---
+
