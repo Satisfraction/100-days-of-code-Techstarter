@@ -488,3 +488,25 @@
 
 ---
 
+### Tag 37: 23. September 2023
+
+**Was habe ich heute erreicht**: Ein produktiver Tag in der Entwicklung der Sprachlern-App! Heute habe ich folgende Fortschritte erzielt:
+
+- **1 neue Kategorie erstellt**: Die App wird immer vielfältiger, da eine neue Kategorie hinzugefügt wurde, um das Vokabular zu erweitern.
+
+- **25 neue Wörter erstellt**: Das Vokabular wurde um 25 neue Wörter erweitert, um das Lernen noch interessanter zu gestalten.
+
+- **25 neue Sätze erstellt**: Neue Sätze wurden hinzugefügt, um das Kontextverständnis zu fördern und die Anwendung lebendiger zu gestalten.
+
+**Die Vielfalt wächst weiter**:
+- Mit den neuen Kategorien, Wörtern und Sätzen wächst die Vielfalt und Tiefe der App, um den Benutzern eine reichhaltige Lernerfahrung zu bieten.
+
+**Dein Feedback ist willkommen!**:
+- Wenn du Ideen oder Feedback zu den neuen Inhalten hast, freue ich mich darauf, von dir zu hören.
+
+**Link zur Arbeit**: [Sprachlern App](https://github.com/Satisfraction/SprachlernApp)
+
+**Auf eine reichhaltige Lernerfahrung!** 📚🗣️🌍
+
+---
+
