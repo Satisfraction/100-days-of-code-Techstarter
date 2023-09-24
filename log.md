@@ -510,3 +510,22 @@
 
 ---
 
+### Tag 38: 24. September 2023
+
+**Was habe ich heute erreicht**: Ein spannender Tag in der Entwicklung der Sprachlern-App! Heute habe ich damit begonnen, an einer brandneuen Funktion zu arbeiten, die den Lernprozess verfolgt. Das Ziel dieser Funktion ist es, das Lernerlebnis zu verbessern und den Benutzern dabei zu helfen, ihren Fortschritt zu überwachen.
+
+**Die neue Funktion im Blick**:
+- Ich möchte darauf hinweisen, dass diese Funktion sich noch in der Entwicklung befindet und noch nicht implementiert ist. Sie wird es den Benutzern bald ermöglichen, ihren Lernfortschritt zu verfolgen.
+
+**Warum ist das wichtig?**:
+- Das Verfolgen des Lernfortschritts ist entscheidend, um motiviert zu bleiben und die eigenen Sprachkenntnisse zu verbessern.
+
+**Dein Input ist gefragt!**:
+- Ich bin gespannt auf dein Feedback und deine Ideen zu dieser neuen Funktion. Was würdest du gerne sehen, um dein Lernerlebnis zu bereichern?
+
+**Link zur Arbeit**: [Sprachlern App](https://github.com/Satisfraction/SprachlernApp)
+
+**Auf besseres Sprachenlernen!** 📚📊🗣️
+
+---
+
