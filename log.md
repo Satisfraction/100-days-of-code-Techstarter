@@ -589,3 +589,24 @@
 
 ---
 
+### Tag 42: 28. September 2023
+
+**Aufregende Neuigkeiten**: Es ist soweit, das lang erwartete Update ist da, und ich bin stolz darauf, die brandneue Funktion vorzustellen!
+
+**Statistiken Anzeigen**: Ab sofort kannst du dir eine kleine Statistik über die gelernten Wörter und Sätze anzeigen lassen. Diese Funktion ermöglicht es dir, den Fortschritt deines Lernprozesses zu verfolgen und deine Erfolge zu sehen. Die Statistik enthält wichtige Informationen, darunter:
+
+- **Gelernte Einheiten**: Die Anzahl der gelernten Wörter oder Sätze.
+- **Korrekte Antworten**: Die Anzahl der korrekt beantworteten Fragen oder Übungen.
+- **Fehlerhafte Antworten**: Die Anzahl der fehlerhaften Antworten oder falsch beantworteten Fragen.
+
+**Warum ist das spannend?**:
+- Mit dieser neuen Funktion hast du die Möglichkeit, deinen Fortschritt zu überwachen und deine Fähigkeiten im Sprachenlernen zu verbessern. Sie bietet einen Überblick über deine Leistungen und zeigt, wie weit du gekommen bist.
+
+**Dein Feedback ist wichtig**: 
+- Ich freue mich auf dein Feedback und deine Erfahrungen mit der neuen Funktion. Deine Meinung ist entscheidend, um die App weiter zu verbessern und an die Bedürfnisse der Benutzer anzupassen.
+
+**Link zur Arbeit**: [Sprachlern App](https://github.com/Satisfraction/SprachlernApp)
+
+**Auf eine spannende Lernerfahrung!** 📚📈🌟
+
+---
