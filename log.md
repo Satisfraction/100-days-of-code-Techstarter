@@ -2,6 +2,85 @@
 
 ---
 
+**Inhaltsverzeichnis**
+
+- [Teil 1: Tag 0 bis Tag 9](#teil-1-tag-0-bis-tag-9)
+  - [Tag 0: 17. August 2023](#tag-0-17-august-2023)
+  - [Tag 1: 18. August 2023](#tag-1-18-august-2023)
+  - [Tag 2: 19. August 2023](#tag-2-19-august-2023)
+  - [Tag 3: 20. August 2023](#tag-3-20-august-2023)
+  - [Tag 4: 21. August 2023](#tag-4-21-august-2023)
+  - [Tag 5: 22. August 2023](#tag-5-22-august-2023)
+  - [Tag 6: 23. August 2023](#tag-6-23-august-2023)
+  - [Tag 7: 24. August 2023](#tag-7-24-august-2023)
+  - [Tag 8: 25. August 2023](#tag-8-25-august-2023)
+  - [Tag 9: 26. August 2023](#tag-9-26-august-2023)
+
+---
+
+- [Teil 2: Tag 10 bis Tag 19](#teil-2-tag-10-bis-tag-19)
+  - [Tag 10: 27. August 2023](#tag-10-27-august-2023)
+  - [Tag 11: 28. August 2023](#tag-11-28-august-2023)
+  - [Tag 12: 29. August 2023](#tag-12-29-august-2023)
+  - [Tag 13: 30. August 2023](#tag-13-30-august-2023)
+  - [Tag 14: 31. August 2023](#tag-14-31-august-2023)
+  - [Tag 15: 1. September 2023](#tag-15-1-september-2023)
+  - [Tag 16: 2. September 2023](#tag-16-2-september-2023)
+  - [Tag 17: 3. September 2023](#tag-17-3-september-2023)
+  - [Tag 18: 4. September 2023](#tag-18-4-september-2023)
+  - [Tag 19: 5. September 2023](#tag-19-5-september-2023)
+
+---
+
+- [Teil 3: Tag 20 bis Tag 29](#teil-3-tag-20-bis-tag-29)
+  - [Tag 20: 6. September 2023](#tag-20-6-september-2023)
+  - [Tag 21: 7. September 2023](#tag-21-7-september-2023)
+  - [Tag 22: 8. September 2023](#tag-22-8-september-2023)
+  - [Tag 23: 9. September 2023](#tag-23-9-september-2023)
+  - [Tag 24: 10. September 2023](#tag-24-10-september-2023)
+  - [Tag 25: 11. September 2023](#tag-25-11-september-2023)
+  - [Tag 26: 12. September 2023](#tag-26-12-september-2023)
+  - [Tag 27: 13. September 2023](#tag-27-13-september-2023)
+  - [Tag 28: 14. September 2023](#tag-28-14-september-2023)
+  - [Tag 29: 15. September 2023](#tag-29-15-september-2023)
+
+---
+
+- [Teil 4: Tag 30 bis Tag 39](#teil-4-tag-30-bis-tag-39)
+  - [Tag 30: 16. September 2023](#tag-30-16-september-2023)
+  - [Tag 31: 17. September 2023](#tag-31-17-september-2023)
+  - [Tag 32: 18. September 2023](#tag-32-18-september-2023)
+  - [Tag 33: 19. September 2023](#tag-33-19-september-2023)
+  - [Tag 34: 20. September 2023](#tag-34-20-september-2023)
+  - [Tag 35: 21. September 2023](#tag-35-21-september-2023)
+  - [Tag 36: 22. September 2023](#tag-36-22-september-2023)
+  - [Tag 37: 23. September 2023](#tag-37-23-september-2023)
+  - [Tag 38: 24. September 2023](#tag-38-24-september-2023)
+  - [Tag 39: 25. September 2023](#tag-39-25-september-2023)
+
+---
+
+- [Teil 5: Tag 40 bis Tag 49](#teil-5-tag-40-bis-tag-49)
+  - [Tag 40: 26. September 2023](#tag-40-26-september-2023)
+  - [Tag 41: 27. September 2023](#tag-41-27-september-2023)
+  - [Tag 42: 28. September 2023](#tag-42-28-september-2023)
+  - [Tag 43: 29. September 2023](#tag-43-29-september-2023)
+  - [Tag 44: 30. September 2023](#tag-44-30-september-2023)
+  - [Tag 45: 1. Oktober 2023](#tag-45-1-oktober-2023)
+  - [Tag 46: 2. Oktober 2023](#tag-46-2-oktober-2023)
+  - [Tag 47: 3. Oktober 2023](#tag-47-3-oktober-2023)
+  - [Tag 48: 4. Oktober 2023](#tag-48-4-oktober-2023)
+  - [Tag 49: 5. Oktober 2023](#tag-49-5-oktober-2023)
+
+---
+
+- [Teil 6: Tag 50 bis Tag 59](#teil-6-tag-48-bis-tag-50)
+  - [Tag 50: 6. Oktober 2023](#tag-50-6-oktober-2023)
+
+---
+
+## teil 1: tag 0 bis tag 9
+
 ### Tag 0: 17. August 2023 
 
 **Was habe ich heute erreicht**: Die Magie von Python der Welt nähergebracht! 🐍🌍
@@ -88,6 +167,8 @@
 
 ---
 
+## teil 2: tag 10 bis tag 19
+
 ### Tag 10: 27. August 2023
 
 **Was habe ich heute erreicht**: Ideen für zukünftige aufregende Updates gesammelt. 💡
@@ -167,6 +248,8 @@
 **Link zur Arbeit:** [Sprachlern App](https://github.com/Satisfraction/SprachlernApp)
 
 ---
+
+## Teil 3: Tag 20 bis Tag 29
 
 ### Tag 20: 6. September 2023
 
@@ -347,6 +430,8 @@
 **Auf spannende zukünftige Updates!** 🚀📚🌍
 
 ---
+
+## Teil 4: Tag 30 bis Tag 39
 
 ### Tag 30: 16. September 2023
 
@@ -548,6 +633,8 @@
 
 ---
 
+## Teil 5: Tag 40 bis Tag 49
+
 ### Tag 40: 26. September 2023
 
 **Was habe ich heute erreicht**: Ein weiterer Schritt in Richtung der Präsentation der neuen Funktion! Heute habe ich ausgiebige Tests durchgeführt, um sicherzustellen, dass alles reibungslos funktioniert und die Benutzererfahrung nahtlos ist. Die Ergebnisse sind vielversprechend, und ich bin zuversichtlich, dass ich die neue Funktion bald präsentieren kann.
@@ -733,6 +820,8 @@
 **Auf spannende Neuerungen und ein noch besseres Lernerlebnis!** 🌟📚🚀
 
 ---
+
+## Teil 6: Tag 50 bis Tag 59
 
 ### Tag 50: 6. Oktober 2023
 
