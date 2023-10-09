@@ -78,6 +78,7 @@
   - [Tag 50: 6. Oktober 2023](#tag-50-6-oktober-2023)
   - [Tag 51: 7. Oktober 2023](#tag-51-7-oktober-2023)
   - [Tag 52: 8. Oktober 2023](#tag-52-8-oktober-2023)
+  - [Tag 53: 9. Oktober 2023](#tag-53-9-oktober-2023)
 
 ---
 
